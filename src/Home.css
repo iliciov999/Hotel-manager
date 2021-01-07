@@ -1,0 +1,8 @@
+.home__section{
+    display: flex;
+    padding: 30px;
+}
+.home__section button{
+    border: none;
+    background: none;
+}
